@@ -1,0 +1,53 @@
+{
+    "bot": {
+        "owner": "319827233042857985",
+        "footer": "LiepWest RP",
+        "status": "LiepWest RP",
+        "prefix": "!"
+    },
+    "economy": {
+        "dailymoney": "500-1000"
+    },
+    "shopping": {
+        "product": {
+            "one": "PieLie'nin İfşası",
+            "two": "Nitro Classic",
+            "three": "Nitfilix",
+            "four": "Pornhub 3 Aylık",
+            "five": "Sınırısız Pornhub",
+            "six": "d"
+        },
+        "result": {
+            "1": "Tahmini teslimat süresi 1 gün!",
+            "2": "Tahmini teslimat süresi 1 gün!",
+            "3": "Tahmini teslimat süresi 1 gün!",
+            "4": "Tahmini teslimat süresi 1 saat!",
+            "5": "Tahmini teslimat süresi 30 dakika!",
+            "6": "Tahmini teslimat süresi 30 dakika!"
+        },
+        "prices": {
+            "1": "1",
+            "2": "60000",
+            "3": "30000",
+            "4": "25000",
+            "5": "10000",
+            "6": "5000"
+        }
+    },
+    "employee": {
+        "staffroles": "924287250756427797"
+    },
+    "channel": {
+        "commandchannel": "924460143540846592",
+        "log": "924450763311284255",
+        "voice": "924456998148403201"
+          },
+    "emojis": {
+        "dollar": "PARA EMOJİSİ",
+        "yes": "ONAY EMOJİSİ",
+        "no": "RED EMOJİSİ"
+    },
+    "workspace": {
+        "addmoney": "1-300"
+    }
+}
